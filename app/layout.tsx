@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Book Generator",
-  description: "Phase 1 editor for configuring A4 book layouts before PDF export.",
+  description: "Phase 2 editor for multilingual A4 book pages with borders, typography, and image placement.",
 };
 
 export default function RootLayout({
@@ -31,3 +31,4 @@ export default function RootLayout({
     </html>
   );
 }
+
